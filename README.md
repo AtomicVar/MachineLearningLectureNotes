@@ -1,4 +1,8 @@
-# 《张志华机器学习导论》慕课讲义
+<h1 align="center">《张志华机器学习导论》慕课讲义</h1>
+<p align="center">
+  <a href="https://study.163.com/course/courseMain.htm?courseId=1694003"><img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91%E8%AF%BE%E5%A0%82-%E5%9C%A8%E7%BA%BF%E8%A7%82%E7%9C%8B-ff3f29"/></a>
+  <a href="https://www.bilibili.com/video/av28148968"><img src="https://img.shields.io/badge/Bilibili-av28148968-ff69b4"/></a>
+</p>
 
 上海交通大学张志华机器学习导论课程讲义，CSDN 上都是积分下载的，我不知道是否有版权问题，先把这份讲义放在这里。
 
